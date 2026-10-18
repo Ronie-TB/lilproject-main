@@ -10,12 +10,15 @@ h1{
     color: #120C64;
     text-align: center;
 }
+h2{
+    color: #120C64;
+    text-align: center;
+}
 #mainframe{
     border: black 3px solid;
     width: 77%;
     margin: auto;
     background-color: #C0ADCD;
-    height: 1000px;
 }
 #Logo{
     width: 100px;
@@ -28,9 +31,16 @@ h1{
     width: 85%;
     margin: auto;
     text-align: center;
+    padding: 0;
 
 }
 
 #img_of_table{
     width: 200px;
+    vertical-align: middle;
+}
+
+table,td{
+    border-collapse: collapse;
+    border: 5px solid #6a6a6a;
 }
