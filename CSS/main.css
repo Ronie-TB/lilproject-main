@@ -3,17 +3,18 @@
 }
 body{
     background-color: #333333;
+    color: #000000;
 }
 h1{
     font-size: 75px;
-    color: #A083B3;
+    color: #120C64;
     text-align: center;
 }
 #mainframe{
     border: black 3px solid;
     width: 77%;
     margin: auto;
-    background-color: #76568F;
+    background-color: #C0ADCD;
     height: 1000px;
 }
 #Logo{
