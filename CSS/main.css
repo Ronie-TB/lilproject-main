@@ -1,0 +1,21 @@
+body{
+    background-color: #333333;
+}
+h1{
+    font-size: 75px;
+    color: #A083B3;
+    text-align: center;
+}
+#mainframe{
+    border: black 3px solid;
+    width: 70%;
+    margin: auto;
+    background-color: #76568F;
+    height: 1000px;
+}
+#Logo{
+    width: 100px;
+}
+#div_logo{
+    text-align: center;
+}
