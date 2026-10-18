@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: #333333;
 }
@@ -8,7 +11,7 @@ h1{
 }
 #mainframe{
     border: black 3px solid;
-    width: 70%;
+    width: 77%;
     margin: auto;
     background-color: #76568F;
     height: 1000px;
@@ -18,4 +21,10 @@ h1{
 }
 #div_logo{
     text-align: center;
+}
+
+#table_of_reviews{
+    width: 85%;
+    margin: auto;
+
 }
