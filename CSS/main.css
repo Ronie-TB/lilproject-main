@@ -24,12 +24,12 @@ h3{
     background-color: #C0ADCD;
 }
 #Logo{
-    width: 100px;
+    width: 88px;
 }
 #div_logo{
-    text-align: center;
+    padding-left: 20% ;
+    margin: auto;
 }
-
 #table_of_reviews{
     width: 85%;
     margin: auto;
