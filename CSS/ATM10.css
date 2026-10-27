@@ -19,6 +19,7 @@ h3{
 }
 #mainframe{
     border: black 3px solid;
+    border-radius: 15px;
     width: 77%;
     margin: auto;
     background-color: #FFF9C4;

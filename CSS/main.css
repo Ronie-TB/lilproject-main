@@ -19,6 +19,7 @@ h3{
 }
 #mainframe{
     border: black 3px solid;
+    border-radius: 15px;
     width: 77%;
     margin: auto;
     background-color: #C0ADCD;
@@ -41,8 +42,16 @@ h3{
 #img_of_table{
     width: 200px;
     vertical-align: middle;
+    transform: scale(1);
+    transition-duration: 0.3s;
 }
+#img_of_table:hover{
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+}
+#img_of_table:onmouseleave{
 
+}
 table,td{
     border-collapse: collapse;
     border: 5px solid #6a6a6a;
