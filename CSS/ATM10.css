@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #333333;
+    color: #000000;
+}
+h1{
+    font-size: 75px;
+    color: #112A46;
+    text-align: center;
+}
+h2{
+    color: #112A46;
+    text-align: center;
+}
+h3{
+    color: #112A46;
+}
+#mainframe{
+    border: black 3px solid;
+    width: 77%;
+    margin: auto;
+    background-color: #FFF9C4;
+}
+table,td{
+    border-collapse: collapse;
+    border: 5px solid #6a6a6a;
+}

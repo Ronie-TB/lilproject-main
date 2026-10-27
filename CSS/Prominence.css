@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #333333;
+    color: #000000;
+}
+h1{
+    font-size: 75px;
+    color: #000000;
+    text-align: center;
+}
+h2{
+    color: #000000;
+    text-align: center;
+}
+h3{
+    color: #000000;
+}
+#mainframe{
+    border: black 3px solid;
+    width: 77%;
+    margin: auto;
+    background-image: linear-gradient(to bottom, #502830, #d65819);
+}
+table,td{
+    border-collapse: collapse;
+    border: 5px solid #000000;
+}
