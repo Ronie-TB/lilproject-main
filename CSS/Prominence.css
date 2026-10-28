@@ -23,8 +23,25 @@ h3{
     margin: auto;
     background-image: linear-gradient(to bottom, #502830, #d65819);
     border-radius: 15px;
+    padding: 4px;
+    background-repeat: no-repeat;
 }
 table,td{
     border-collapse: collapse;
     border: 5px solid #000000;
+}
+
+#screenshots{
+    width: 48%;
+    border-radius: 15px;
+}
+
+#screenshot_holder{
+    margin: auto;
+    text-align: center;
+}
+
+#base{
+    width: 100%;
+    border-radius: 15px;
 }
