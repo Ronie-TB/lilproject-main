@@ -4,6 +4,7 @@
 body{
     background-color: #333333;
     color: #000000;
+    font-family: 'Minecraft', sans-serif;
 }
 h1{
     font-size: 75px;
@@ -24,7 +25,7 @@ h3{
     margin: auto;
     background-color: #C0ADCD;
     background-repeat: no-repeat;
-}
+    }
 #Logo{
     width: 88px;
 }
@@ -52,5 +53,5 @@ h3{
 }
 table,td{
     border-collapse: collapse;
-    border: 5px solid #6a6a6a;
+    border: none;
 }
