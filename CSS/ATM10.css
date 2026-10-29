@@ -4,6 +4,7 @@
 body{
     background-color: #333333;
     color: #000000;
+    font-family: 'Minecraft', sans-serif;
 }
 h1{
     font-size: 75px;
@@ -43,4 +44,7 @@ table,td{
 }
 #screenshot_header{
     width: 75%;
+}
+button{
+    background: none; border: none; font-size: 25px;
 }

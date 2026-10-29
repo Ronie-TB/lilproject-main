@@ -4,6 +4,7 @@
 body{
     background-color: #333333;
     color: #000000;
+        font-family: 'Minecraft', sans-serif;
 }
 h1{
     font-size: 75px;
@@ -44,4 +45,7 @@ table,td{
 #base{
     width: 100%;
     border-radius: 15px;
+}
+button{
+    background: none; border: none; font-size: 25px;
 }
