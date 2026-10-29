@@ -28,3 +28,19 @@ table,td{
     border-collapse: collapse;
     border: 5px solid #6a6a6a;
 }
+
+#screenshot{
+    width: 100%;
+}
+#screenshot_holder{
+    text-align: center;
+}
+#screenshot_holder #screenshot{
+    width: 50%;
+}
+#screenshot_slim{
+    width: 12.5%;
+}
+#screenshot_header{
+    width: 75%;
+}
