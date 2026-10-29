@@ -22,8 +22,7 @@ h3{
     border-radius: 15px;
     width: 77%;
     margin: auto;
-    background-color: #FFF9C4;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, #9f4719, #e8d958)
 }
 table,td{
     border-collapse: collapse;
